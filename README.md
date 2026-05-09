@@ -1,2 +1,2 @@
 # social-media-emotion-nlp
-Detect emotions from social media posts and messages using NLP and BER
+Emotion detection from social media text using NLP and BERT-based machine learning techniques.
